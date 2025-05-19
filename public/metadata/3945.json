@@ -1,0 +1,11 @@
+{
+  "name": "Spin Wheel #3945",
+  "description": "Spin Wheel - Get and Hold to get 20 Spins per day on Spin Wheel Mini App",
+  "image": "https://swheelnft.vercel.app/images/image.png",
+  "attributes": [
+    {
+      "trait_type": "SPINS",
+      "value": "20/days"
+    }
+  ]
+}
